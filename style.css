@@ -1,0 +1,1149 @@
+*{
+  width: 1440px;
+  height: 5257px;
+  padding: 0;
+  margin: 0;
+}
+
+/*header*/
+.Header {
+  width: 1440px;
+  height: 800px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.Bg {
+  width: 1440px;
+  height: 800px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #FFF8F3;
+}
+
+.Elements {
+  width: 570px;
+  height: 460px;
+  left: 135px;
+  top: 200px;
+  position: absolute;
+}
+
+.Group4 {
+  width: 138px;
+  height: 82px;
+  left: 0px;
+  top: 355px;
+  position: absolute;
+}
+
+.Ellipse6,
+.Ellipse2,
+.Ellipse3 {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  border-radius: 9999px;
+  border: 2px white solid;
+}
+
+.Ellipse6 { left: 0px; top: 34px; }
+.Ellipse2 { left: 30px; top: 34px; }
+.Ellipse3 { left: 60px; top: 34px; }
+
+.Group3 {
+  width: 48px;
+  height: 48px;
+  left: 90px;
+  top: 34px;
+  position: absolute;
+}
+
+.Ellipse5 {
+  width: 48px;
+  height: 48px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #201830;
+  border-radius: 9999px;
+  border: 2px white solid;
+}
+
+.50k {
+  left: 8px;
+  top: 13px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 22px;
+  word-wrap: break-word;
+}
+
+.PodcastListener {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  color: #201830;
+  font-size: 14px;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 24px;
+  word-wrap: break-word;
+}
+
+.Group13 {
+  width: 270px;
+  height: 302px;
+  left: 300px;
+  top: 158px;
+  position: absolute;
+}
+
+.Rectangle6 {
+  width: 270px;
+  height: 302px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  border-radius: 8px;
+}
+
+.Group12 {
+  width: 194px;
+  height: 60px;
+  left: 38px;
+  top: 226px;
+  position: absolute;
+}
+
+.Base {
+  width: 194px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: rgba(255, 255, 255, 0.40);
+  box-shadow: 0px 12px 44px rgba(0, 0, 0, 0.07);
+  border-radius: 9px;
+  backdrop-filter: blur(10px);
+}
+
+.SongPodcaster {
+  left: 51px;
+  top: 34px;
+  position: absolute;
+  text-align: center;
+  color: #665F73;
+  font-size: 12px;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  line-height: 12px;
+  word-wrap: break-word;
+}
+
+.SarahTaylor {
+  left: 57px;
+  top: 14px;
+  position: absolute;
+  text-align: center;
+  color: #201830;
+  font-size: 14px;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 14px;
+  word-wrap: break-word;
+}
+
+.Group14 {
+  width: 270px;
+  height: 332px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.Rectangle5 {
+  width: 270px;
+  height: 302px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  border-radius:
+}
+
+
+/*2nd section*/
+.Features1 {
+  width: 1170px;
+  height: 399px;
+  left: 135px;
+  top: 960px;
+  position: absolute;
+}
+
+.Group16 {
+  width: 570px;
+  height: 399px;
+  left: 600px;
+  top: 0px;
+  position: absolute;
+}
+
+.Ellipse19 {
+  width: 287px;
+  height: 287px;
+  left: 142px;
+  top: 56px;
+  position: absolute;
+  opacity: 0.40;
+  background: #FF9051;
+  box-shadow: 258px 258px 258px;
+  border-radius: 9999px;
+  filter: blur(258px);
+}
+
+.Image21 {
+  width: 126px;
+  height: 126px;
+  left: 169px;
+  top: 273px;
+  position: absolute;
+}
+
+.Image22 {
+  width: 138px;
+  height: 138px;
+  left: 384px;
+  top: 221px;
+  position: absolute;
+}
+
+.Image23 {
+  width: 148px;
+  height: 148px;
+  left: 185px;
+  top: 0px;
+  position: absolute;
+}
+
+.Image25 {
+  width: 100px;
+  height: 100px;
+  left: 470px;
+  top: 59px;
+  position: absolute;
+}
+
+.Image24 {
+  width: 80px;
+  height: 80px;
+  left: 0px;
+  top: 164px;
+  position: absolute;
+  border-radius: 12px;
+}
+
+.Texts {
+  width: 470px;
+  height: 308px;
+  left: 0px;
+  top: 45px;
+  position: absolute;
+}
+
+.Buttons {
+  width: 157px;
+  height: 64px;
+  left: 0px;
+  top: 244px;
+  position: absolute;
+}
+
+.Rectangle2 {
+  width: 157px;
+  height: 64px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #936CDD;
+  border-radius: 8px;
+}
+
+.ListenNow {
+  left: 19px;
+  top: 17px;
+  position: absolute;
+  color: white;
+  font-size: 18px;
+  font-family: "Plus Jakarta Sans";
+  font-weight: 600;
+  line-height: 30px;
+  word-wrap: break-word;
+}
+
+.Play {
+  width: 18px;
+  height: 18px;
+  left: 120px;
+  top: 24px;
+  position: absolute;
+}
+
+.Ellipse13 {
+  width: 18px;
+  height: 18px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+  border-radius: 9999px;
+}
+
+.RebuiltForSimplicityAndSpeedSoYouCanSpendMoreTimeDiscoveringAndListeningToGreatPodcastsWeAreEverywhereOnTheInternet {
+  width: 470px;
+  left: 0px;
+  top: 122px;
+  position: absolute;
+  color: #665F73;
+  font-size: 16px;
+  font-family: "Plus Jakarta Sans";
+  font-weight: 400;
+  line-height: 28px;
+  word-wrap: break-word;
+}
+
+.Vector2 {
+  width: 236px;
+  height: 30px;
+  left: 173px;
+  top: 80px;
+  position: absolute;
+}
+
+.WeAreInTheTopPadcastDirectories {
+  width: 470px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  color: #201830;
+  font-size: 42px;
+  font-family: "Plus Jakarta Sans";
+  font-weight: 700;
+  line-height: 52px;
+  word-wrap: break-word;
+}
+
+
+
+
+/*3rd section*/
+.Features2 {
+  width: 1170px;
+  height: 915px;
+  left: 135px;
+  top: 1519px;
+  position: absolute;
+}
+
+.Buttons {
+  width: 157px;
+  height: 64px;
+  left: 507px;
+  top: 851px;
+  position: absolute;
+}
+
+.Rectangle2 {
+  width: 157px;
+  height: 64px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #201830;
+  border-radius: 8px;
+}
+
+.AllCategory {
+  left: 27px;
+  top: 17px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family: "Plus Jakarta Sans";
+  font-weight: 600;
+  line-height: 30px;
+  word-wrap: break-word;
+}
+
+.Group17636, .Group17633, .Group17635, .Group17632, .Group17634 {
+  position: absolute;
+}
+
+.Group17636 {
+  width: 470px;
+  height: 285px;
+  left: 400px;
+  top: 196px;
+}
+
+.Rectangle142, .Rectangle143, .Rectangle144, .Rectangle137, .Rectangle141 {
+  width: 470px; /* Change accordingly for each class */
+  height: 285px; /* Change accordingly for each class */
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  border-radius: 8px;
+}
+
+.Group17627, .Group17628, .Group17631, .Group17630, .Group17629 {
+  width: 470px; /* Change accordingly for each class */
+  height: 86px; /* Change accordingly for each class */
+  left: 0px;
+  top: 199px;
+  position: absolute;
+}
+
+.Rectangle144 {
+  width: 470px; /* Change accordingly for each class */
+  height: 86px; /* Change accordingly for each class */
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: rgba(255, 255, 255, 0.20);
+  backdrop-filter: blur(20px);
+}
+
+.PodcastsChannel, .Healthcare, .Fashion, .Music, .Education, .Comedy {
+  left: 24px;
+  top: 46px;
+  position: absolute;
+  color: white;
+  font-size: 14px; /* Change to 18px where applicable */
+  font-family: "Plus Jakarta Sans";
+  font-weight: 400; /* Change to 600 where applicable */
+  line-height: 24px; /* Change to 30px where applicable */
+  word-wrap: break-word;
+}
+
+.Icon {
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+
+.Layer2, .Layer1 {
+  position: absolute;
+}
+
+.Layer2 {
+  width: 14px;
+  height: 14px;
+  border: 1px white solid;
+}
+
+.Layer1 {
+  width: 6px;
+  height: 4px;
+  left: 4px;
+  top: 5px;
+  border: 1px white solid;
+}
+
+.Texts {
+  width: 470px;
+  height: 126px;
+  left: 350px;
+  top: 0px;
+  position: absolute;
+}
+
+.ListenAllKindOfPodcastsYouLikeByExploringCategoriesMakeYourDayEvenBetter {
+  width: 470px;
+  left: 0px;
+  top: 70px;
+  position: absolute;
+  text-align: center;
+  color: #665F73;
+  font-size: 16px;
+  font-family: "Plus Jakarta Sans";
+  font-weight: 400;
+  line-height: 28px;
+  word-wrap: break-word;
+}
+
+.Vector2 {
+  width: 193px;
+  height: 23px;
+  left: 231px;
+  top: 37px;
+  position: absolute;
+}
+
+.ListenByCategory {
+  left: 46px;
+  top: 0px;
+  position: absolute;
+  text-align: center;
+  color: #201830;
+  font-size: 42px;
+  font-family: "Plus Jakarta Sans";
+  font-weight: 700;
+  line-height: 52px;
+  word-wrap: break-word;
+}
+
+
+
+
+/*4th section*/
+.Features3 {
+  width: 1440px;
+  height: 1057px;
+  left: 0px;
+  top: 2594px;
+  position: absolute;
+}
+
+.Bg {
+  width: 1440px;
+  height: 1057px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #FFF8F3;
+}
+
+.Dot {
+  width: 52px;
+  height: 12px;
+  left: 694px;
+  top: 945px;
+  position: absolute;
+}
+
+.Ellipse2658, .Ellipse2659, .Ellipse2660 {
+  border-radius: 9999px;
+  position: absolute;
+}
+
+.Ellipse2658 {
+  width: 12px;
+  height: 12px;
+  background: #936CDD;
+}
+
+.Ellipse2659, .Ellipse2660 {
+  width: 8px;
+  height: 8px;
+  background: #D8D5DE;
+}
+
+.Ellipse2659 {
+  left: 24px;
+  top: 2px;
+}
+
+.Ellipse2660 {
+  left: 44px;
+  top: 2px;
+}
+
+.Card4, .Card3, .Card2, .Card1 {
+  width: 570px;
+  height: 286px;
+  position: absolute;
+}
+
+.Card4 {
+  left: 735px;
+  top: 604px;
+}
+
+.Card3 {
+  left: 135px;
+  top: 604px;
+}
+
+.Card2 {
+  left: 735px;
+  top: 288px;
+}
+
+.Card1 {
+  left: 135px;
+  top: 288px;
+}
+
+.Rectangle71 {
+  width: 270px;
+  height: 286px;
+  border-radius: 8px;
+  position: absolute;
+}
+
+.Texts {
+  width: 270px;
+  height: 227px;
+  position: absolute;
+}
+
+.Button {
+  width: 93px;
+  height: 24px;
+  position: absolute;
+}
+
+.ListenNow {
+  color: #201830;
+  font-size: 14px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 600;
+  line-height: 24px;
+  word-wrap: break-word;
+  position: absolute;
+}
+
+.Play {
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+
+.Ellipse13 {
+  width: 14px;
+  height: 14px;
+  background: #201830;
+  border-radius: 9999px;
+}
+
+.IsHardwareReallyWorthItWhenItComesToPodcastingTheAnswerIsItDepends {
+  color: #665F73;
+  font-size: 16px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+  word-wrap: break-word;
+  position: absolute;
+}
+
+.ShouldYouGetOutboardAudioGear {
+  color: #201830;
+  font-size: 20px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 700;
+  line-height: 30px;
+  word-wrap: break-word;
+  position: absolute;
+}
+
+.Episode31hr25min {
+  color: #FD6F1F;
+  font-size: 14px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 400;
+  line-height: 24px;
+  word-wrap: break-word;
+  position: absolute;
+}
+
+.Buttons {
+  width: 157px;
+  height: 64px;
+  position: absolute;
+}
+
+.Rectangle2 {
+  width: 157px;
+  height: 64px;
+  background: #201830;
+  border-radius: 8px;
+  position: absolute;
+}
+
+.AllEpisodes {
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 600;
+  line-height: 30px;
+  position: absolute;
+}
+
+.Vector2 {
+  width: 139px;
+  height: 13px;
+  position: absolute;
+}
+
+.OurMostPopularEpisodes {
+  color: #201830;
+  font-size: 42px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 700;
+  line-height: 52px;
+  word-wrap: break-word;
+  position: absolute;
+}
+
+
+
+/*5th section*/
+.Testimonial {
+  width: 1467px;
+  height: 452px;
+  position: absolute;
+  left: 135px;
+  top: 3811px;
+  flex-shrink: 0;
+}
+
+.Ellipse20 {
+  width: 287px;
+  height: 287px;
+  position: absolute;
+  left: 1180px;
+  top: 0;
+  opacity: 0.40;
+  background: #FF9051;
+  box-shadow: 0 0 258px rgba(255, 144, 81, 0.4);
+  border-radius: 9999px;
+  filter: blur(258px);
+}
+
+.Group17639 {
+  width: 570px;
+  height: 444px;
+  position: absolute;
+  left: 0;
+  top: 8px;
+}
+
+.Dot {
+  width: 52px;
+  height: 12px;
+  position: absolute;
+  left: 126px;
+  top: 432px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+
+.Ellipse2658 {
+  width: 12px;
+  height: 12px;
+  background: #936CDD;
+  border-radius: 9999px;
+}
+
+.Ellipse2659,
+.Ellipse2660 {
+  width: 8px;
+  height: 8px;
+  background: #D8D5DE;
+  border-radius: 9999px;
+}
+
+.Ellipse2659 {
+  position: absolute;
+  left: -24px;
+  top: 2px;
+}
+
+.Ellipse2660 {
+  position: absolute;
+  left: -44px;
+  top: 2px;
+}
+
+.Rectangle133 {
+  width: 370px;
+  height: 444px;
+  position: absolute;
+  left: 200px;
+  top: 0;
+  border-radius: 8px;
+}
+
+.Rectangle134 {
+  width: 270px;
+  height: 284px;
+  position: absolute;
+  left: 0;
+  top: 80px;
+  border-radius: 8px;
+}
+
+.Texts {
+  margin-left: 560px;
+  width: 470px;
+  height: 349px;
+  position: absolute;
+  left: 700px;
+  top: 56px;
+}
+
+.ScottAdams {
+  position: absolute;
+  left: 0;
+  top: 325px;
+  color: #ABA6B5;
+  font-size: 14px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.TestimonialText {
+  width: 470px;
+  position: absolute;
+  left: 0;
+  top: 195px;
+  color: #665F73;
+  font-size: 16px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+.Vector2 {
+  width: 182px;
+  height: 20px;
+  position: absolute;
+  left: 188px;
+  top: 88px;
+}
+
+.WhatOurListenersSayingAboutUs {
+  width: 470px;
+  position: absolute;
+  left: 0;
+  top: 53px;
+  color: #201830;
+  font-size: 42px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 700;
+  line-height: 52px;
+}
+
+.Union {
+  width: 43px;
+  height: 35px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+/*subscribe*/
+.Newsletter {
+  width: 1170px;
+  height: 438px;
+  position: absolute;
+  left: 135px;
+  top: 4423px;
+}
+
+.Base {
+  width: 1170px;
+  height: 438px;
+  position: absolute;
+  background: #201830;
+  border-radius: 12px;
+}
+
+.Bar {
+  display: flex;
+  width: 957px;
+  height: 64px;
+  position: absolute;
+  left: 100px;
+  top: 274px;
+}
+
+.Buttons {
+  width: 157px;
+  height: 64px;
+  position: absolute;
+  left: 800px;
+}
+
+.Rectangle2 {
+  background: #936CDD;
+  border-radius: 8px;
+  position: absolute;
+}
+
+.Subscribe {
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 600;
+  line-height: 30px;
+  position: absolute;
+  left: 34px;
+  top: 17px;
+}
+
+.Bar .Rectangle2 {
+  width: 370px;
+  height: 64px;
+  background: #2B213F;
+  border-radius: 8px;
+}
+
+.YourName, .YourEmailAdress {
+  position: absolute;
+  left: 28px;
+  top: 18px;
+  color: #ABA6B5;
+  font-size: 16px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+.Texts {
+  width: 970px;
+  height: 105px;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
+
+.RebuiltForSimplicityAndSpeedSoYouCanSpendMoreTimeDiscoveringAndListeningToGreatPodcastsGetAllTheUpdatesOfLatestPodcasts {
+  width: 470px;
+  position: absolute;
+  left: 500px;
+  top: 10px;
+  color: #ABA6B5;
+  font-size: 16px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+.Vector2 {
+  width: 151px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 85px;
+  border: 8px;
+}
+
+.SubscribeAndGetUpdateRegularly {
+  width: 470px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  color: white;
+  font-size: 42px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 700;
+  line-height: 52px;
+}
+
+.Abstract {
+  width: 1108px;
+  height: 367px;
+  position: absolute;
+  left: 35px;
+  top: 26px;
+}
+
+
+
+/*Footer*/
+.Footer {
+  width: 1440px;
+  height: 396px;
+  left: 0px;
+  top: 4861px;
+  position: absolute;
+}
+
+.Bg {
+  width: 1440px;
+  height: 396px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #FFF8F3;
+}
+
+.Group17640 {
+  width: 270px;
+  height: 150px;
+  left: 135px;
+  top: 104px;
+  position: absolute;
+}
+
+.Copyright2022UihutAllRightsReserved {
+  width: 270px;
+  left: 0px;
+  top: 40px;
+  position: absolute;
+  color: #665F73;
+  font-size: 16px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+  word-wrap: break-word;
+}
+
+.Logo {
+  width: 116.12px;
+  height: 26px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.Group5223 {
+  width: 73px;
+  height: 258px;
+  left: 521px;
+  top: 100px;
+  position: absolute;
+}
+
+.Blog, .Category, .Trending, .Episodes, .Home {
+  position: absolute;
+  color: #665F73;
+  font-size: 16px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+  word-wrap: break-word;
+}
+
+.Blog { top: 230px; }
+.Category { top: 186px; }
+.Trending { top: 142px; }
+.Episodes { top: 98px; }
+.Home { top: 54px; }
+
+.Linkes {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  color: #201830;
+  font-size: 20px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 700;
+  line-height: 30px;
+  word-wrap: break-word;
+}
+
+.Group17641, .Group17642, .Group17643 {
+  position: absolute;
+}
+
+.Group17641 {
+  width: 101px;
+  height: 214px;
+  left: 684px;
+  top: 100px;
+}
+
+.YourPodcast, .Catelog, .Instructions, .StyleGuide {
+  position: absolute;
+  color: #665F73;
+  font-size: 16px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+  word-wrap: break-word;
+}
+
+.YourPodcast { top: 186px; }
+.Catelog { top: 142px; }
+.Instructions { top: 98px; }
+.StyleGuide { top: 54px; }
+
+.Features {
+  position: absolute;
+  color: #201830;
+  font-size: 20px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 700;
+  line-height: 30px;
+  word-wrap: break-word;
+  top: 0px;
+}
+
+.Group17642 {
+  width: 96px;
+  height: 214px;
+  left: 875px;
+  top: 100px;
+}
+
+.Cookies, .Security, .Terms, .Privacy {
+  position: absolute;
+  color: #665F73;
+  font-size: 16px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+  word-wrap: break-word;
+}
+
+.Cookies { top: 186px; }
+.Security { top: 142px; }
+.Terms { top: 98px; }
+.Privacy { top: 54px; }
+
+.Company {
+  position: absolute;
+  color: #201830;
+  font-size: 20px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 700;
+  line-height: 30px;
+  top: 0px;
+}
+
+.Group17643 {
+  width: 244px;
+  height: 90px;
+  left: 1061px;
+  top: 100px;
+}
+
+.Image21, .Image22, .Image23, .Image24, .Image25 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 54px;
+}
+
+.Image21 { left: 0px; }
+.Image22 { left: 52px; }
+.Image23 { left: 156px; }
+.Image24 {
+  left: 208px;
+  border-radius: 6px;
+}
+.Image25 { left: 104px; }
+
+.ListenOn {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  color: #201830;
+  font-size: 20px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 700;
+  line-height: 30px;
+  word-wrap: break-word;
+}
